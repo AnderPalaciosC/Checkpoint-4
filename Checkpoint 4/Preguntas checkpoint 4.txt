@@ -1,0 +1,21 @@
+• La diferencia entre una lista y una tupla en Python es que:
+
+	- La lista es una estructura de datos mutable en la que se puede cambiar, agregar o eliminar elementos.
+
+	- La tupla es una estructura de datos inmutable que una vez que se crea, no se puede cambiar, agregar ni eliminar elementos.
+
+
+• El orden de las operaciones en Python es: paréntesis, exponentes, multiplicación, división, suma y resta.
+
+
+• Un diccionario en Python es una estructura que tiene una clave única y su respectivo valor.
+
+
+• La diferencia entre el método ordenado y la función de ordenación es que:
+
+	- El método ordenado toma una lista, la devuelve de forma ordenada y no modifica la lista original.
+
+	- La función de ordenación es un método que modifica y ordena la lista original.
+
+
+• El operador de asignación se utiliza para asignar un valor a una variable. Por ejemplo, numero = 7, el valor 7 se asigna a la variable 'numero'.
